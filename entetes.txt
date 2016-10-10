@@ -1,0 +1,8 @@
+Pour les nodes :
+eid,name,nodetype:int,weight:int,nf
+
+Pour les relations:
+rid,weight
+
+Pour les types de relations:
+id,name,nom_etendu,info
