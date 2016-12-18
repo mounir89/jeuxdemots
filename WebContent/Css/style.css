@@ -1,0 +1,44 @@
+
+
+.home{
+	border: none;
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    /*background-color: #F4F4F4;*/
+    background-image: url("../Images/bg.png");
+    border-color: transparent;
+    border-radius : 40px 0px 40px 0px;
+    border-bottom: 3px solid #122354;  
+    border-right: 1px solid #122354;   
+    border-left: 1px solid #122354; 
+}
+.footer{
+	    background-color: #122354;
+	    border-radius : 33px 0px 33px 0px;
+}
+
+ul#progress {
+    list-style: none;
+    display: inline;
+    width: 125px;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+   
+}
+
+ul#progress li {
+    /* Style your list */
+	float: left;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    box-shadow :0px 1px 1px #000;
+    border-radius: 50px;
+    border-right:1px solid black;
+    border: 2px solid #bbbbbb;
+    
+    background: #ffffff;
+     margin-bottom:30px;
+}
+
